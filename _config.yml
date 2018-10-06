@@ -1,3 +1,5 @@
 include:
     - _static
     - _sources
+
+theme: jekyll-theme-cayman
